@@ -1,0 +1,13 @@
+html {
+    background-color: yellow
+}
+
+nav {
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.requerido {
+    border: 1px red solid
+}
